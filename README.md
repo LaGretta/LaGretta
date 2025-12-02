@@ -7,7 +7,6 @@ I am a motivated junior developer focused on API and backend development using t
  
 ## 💻 My Technical Stack
  
-We use special badges (icons) here to showcase skills.
  
 ### 🌐 Core Backend and Database Technologies:
 
