@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Olexandr Hutsul
+# 👋 Hello! I'm Olexandr 
 ### C# | ASP.NET 
  
 I am a motivated junior developer focused on API and backend development using the .NET platform. I am actively learning and seeking my first position!
