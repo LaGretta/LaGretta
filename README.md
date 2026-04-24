@@ -15,7 +15,11 @@ I am a motivated junior developer focused on API and backend development using t
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 🛠 Tools and Concepts
+## 🛠 Tools and Concepts:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git" />
+</p>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
