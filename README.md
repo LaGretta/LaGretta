@@ -13,8 +13,9 @@
 </p>
 
 ## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LaGretta&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LaGretta&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 📬 Connect With Me
 
