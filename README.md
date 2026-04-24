@@ -1,8 +1,9 @@
-# 👋 Hello! I'm Olexandr 
-### C# | ASP.NET 
- 
-I am a motivated junior developer focused on API and backend development using the .NET platform. I am actively learning and seeking my first position!
- 
+# 👋 Hi, I'm Olexandr Hutsul
+
+💻 Junior .NET Developer  
+📍 Lublin, Poland  
+🚀 Focused on ASP.NET Core, Web API, and backend development
+
 ---
 
 ## 💻 My Technical Stack
@@ -10,7 +11,11 @@ I am a motivated junior developer focused on API and backend development using t
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git,github,mssql" />
 </p>
- 
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
