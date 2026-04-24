@@ -8,9 +8,8 @@ I am a motivated junior developer focused on API and backend development using t
 ## 💻 My Technical Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git,github,mssql" />
 </p>
----
  
 ### 📬 Connect With Me
 
