@@ -4,10 +4,7 @@
 I am a motivated junior developer focused on API and backend development using the .NET platform. I am actively learning and seeking my first position!
  
 ---
- 
-## 💻 My Technical Stack
- 
- 
+
 ## 💻 My Technical Stack
 
 <p align="left">
