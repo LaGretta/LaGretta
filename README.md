@@ -19,7 +19,22 @@
 
 
 
-### 📬 Connect With Me
+<h3>📫 Connect With Me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<p>
+  <a href="https://linkedin.com/in/olexandr-hutsul-9a708333b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:sashagutsil2014@gmail.com?subject=Job Opportunity&body=Hello Olexandr, I saw your GitHub profile">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/koletvl">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/LaGretta">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
