@@ -12,13 +12,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git,github,mssql" />
 </p>
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LaGretta&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LaGretta&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
 <h3>📫 Connect With Me</h3>
 
 <p>
