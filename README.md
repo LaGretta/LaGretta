@@ -8,8 +8,6 @@
 
 ## 💻 My Technical Stack
 
-## 💻 My Technical Stack
-
 ### Core Stack
 [![Core Stack](https://skillicons.dev/icons?i=cs,dotnet,postgres,visualstudio,rider,git,github,postman)](https://skillicons.dev)
 
