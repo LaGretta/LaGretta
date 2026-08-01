@@ -9,22 +9,30 @@
 ## 💻 My Technical Stack
 
 ### Core Stack
-[![Core Stack](https://skillicons.dev/icons?i=cs,dotnet,postgres,visualstudio,rider,git,github,postman)](https://skillicons.dev)
+[![Core Stack](https://skillicons.dev/icons?i=cs,dotnet,postgres,azure,docker,visualstudio,rider,git,github,postman)](https://skillicons.dev)
 
 ### Backend Development
-`ASP.NET Core` · `Web API` · `Entity Framework Core` · `REST API` · `JWT Authentication`
+`ASP.NET Core` · `Web API` · `Entity Framework Core` · `REST API` · `JWT Authentication & Roles` · `Serilog` · `Global Exception Handling`
+
+### Architecture & Patterns
+`Clean / Onion Architecture` · `Repository Pattern` · `Unit of Work` · `Service Layer` · `Dependency Injection` · `DTOs` · `State Machine`
 
 ### Databases
 `SQL Server` · `PostgreSQL` · `Entity Framework Migrations`
 
-### Libraries & Architecture
-`AutoMapper` · `FluentValidation` · `Repository Pattern` · `Service Layer` · `DTOs`
+### Libraries
+`AutoMapper` · `FluentValidation`
 
 ### Testing
 `xUnit` · `Moq` · `FluentAssertions` · `Unit Testing`
 
-<h3>📫 Connect With Me</h3>
+### DevOps & Cloud
+`Docker` · `CI/CD (GitHub Actions)` · `Azure App Service` · `Azure SQL`
 
+### Also Working With
+`React` · `TypeScript` · `PWA`
+
+<h3>📫 Connect With Me</h3>
 <p>
   <a href="https://linkedin.com/in/olexandr-hutsul-9a708333b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
