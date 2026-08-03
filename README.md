@@ -4,16 +4,6 @@
 📍 Lublin, Poland  
 🚀 Focused on ASP.NET Core, Web API, and backend development
 
----
-
-### 📊 Contribution Activity
-
-<div align="center">
-  <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
-</div>
-
----
-
 ## 💻 My Technical Stack
 
 ### Core Stack
